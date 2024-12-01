@@ -1,4 +1,4 @@
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/53bf2444-bb65-4174-b3db-976eec7abdd8">These files contains code in NGINX and Flask that were developed that would create threads, messages, and responses. Essentially, these are two API endpoints that 
+These files contains code in NGINX and Flask that were developed that would create threads, messages, and responses. Essentially, these are two API endpoints that 
 simplifies the calling of the OpenAI API endpoints. Additionally, we also added the code that would create the service for gunicorn. 
 Note that we used AWS EC2 server to create the two API. 
 
