@@ -24,10 +24,6 @@
 #define BTN1  32
 #define BTN2  33
 
-// Replace with your network credentials
-// const char* ssid = "eWiFi";//eWiFi
-// const char* username = "n01501998";
-// const char* password = "eVarretta333";//eVarretta333
 size_t volumeVal = 100;
 
 Audio audio;
