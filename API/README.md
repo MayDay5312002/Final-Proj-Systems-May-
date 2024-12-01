@@ -11,7 +11,7 @@ After=network.target
 User=ubuntu
 Group=www-data
 WorkingDirectory=/home/ubuntu/TestingAPI
-ExecStart=/home/ubuntu/TestingAPI/venv/bin/gunicorn -b localhost:8000 API:API
+ExecStart=/home/ubuntu/TestingAPI/venv/bin/gunicorn -b localhost:8000 app:app
 Restart=always
 [Install]
 Want
