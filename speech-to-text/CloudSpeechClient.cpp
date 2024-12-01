@@ -37,7 +37,7 @@ const char* root_ca=
 
 const char*  server = "speech.googleapis.com";
 
-const String ApiKey = "AIzaSyB7O2PbRaIpHCP41lP2CbpM977x88_wNCQ";
+const String ApiKey = "Insert-Here";
 
 CloudSpeechClient::CloudSpeechClient(Authentication authentication) 
 {
