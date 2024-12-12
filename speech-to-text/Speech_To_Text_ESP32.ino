@@ -12,8 +12,8 @@
 #define RX2 16
 #define BTN_PIN 32
 
-const char* url1 = "https://maydayapi.mooo.com/API/may/createThread";
-const char* url2 = "https://maydayapi.mooo.com/API/may/genResponse";
+const char* url1 = "API endpoint for creating thread here";
+const char* url2 = "API endpoint for creating message, associating with thread, and running AI Assistant";
 
 
 
