@@ -12,14 +12,13 @@
 #define RX2 16
 #define BTN_PIN 32
 
+//Created our own personal API
 const char* url1 = "API endpoint for creating thread here";
 const char* url2 = "API endpoint for creating message, associating with thread, and running AI Assistant";
 
 
 
-// const char *ssid = "eWiFi"; //home: eWiFi
-// const char *username = "n01501998";
-// const char *password = "eVarretta333"; //home: eVarretta333
+
 
 // String question;
 
